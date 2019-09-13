@@ -15,13 +15,14 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "",
-			:version = "",
+			:name = "ringallegro",
+			:version = "1.0",
 			:providerusername = ""
 		]
 	],
 	:files = 	[
-		"main.ring"
+		"main.ring",
+		"README.md"
 	],
 	:ringfolderfiles = 	[
 		"applications/sokoban/fonts/pirulen.ttf",

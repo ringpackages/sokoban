@@ -1,11 +1,7 @@
-# Checkers
+# Sokoban
 
-Checkers package for the Ring programming language
+Sokoban package for the Ring programming language
 
 ## Install
 
-	ringpm install checkers
-
-## Author
-
-	This game is developed by Bert Mariani
+	ringpm install sokoban
